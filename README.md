@@ -4,7 +4,7 @@
 We appreciate your interest and patience.
 
 ## Timeline
-- Expected release: Upon manuscript acceptance (estimated [Month, Year]).
+- Expected release: Upon manuscript acceptance .
 - Pre-release access: Not available during peer review to ensure double-blind process integrity.
 
 ## License
